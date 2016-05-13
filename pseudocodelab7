@@ -1,0 +1,9 @@
+create circle, square, and triangle classes
+give them member variables - location, size, colour, canvas height, canvas width, image
+create constructors, assigning values taken in to the objects member variables
+draw function - do checking to make sure points are in right spot, set up fills, colour, draw the shape with proper function call
+display function - display the image/write to standard out
+make functions for bigger, smaller, left, right, up, down
+figure out math needed on their points to get them to scale/move properly
+call to create a new object of that shape, draw several times on canvas
+have class files sourced into an img tag on an html page
